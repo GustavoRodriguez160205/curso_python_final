@@ -28,7 +28,7 @@ El curso está dividido en semanas, cada una de las cuales cubre temas específi
 - **Ejercicios:**
   - Ejercicio 1: Calculadora simple.
   - Ejercicio 2: Contador de números.
-- **Notas de la semana:** [Notas semana 2](../Notas/semana_2.md)
+- **Notas de la semana:** [Conceptos](../Conceptos/estructuras-de-control)
 
 ---
 
