@@ -16,7 +16,7 @@ El curso está dividido en semanas, cada una de las cuales cubre temas específi
 - **Ejercicios:**
   - Ejercicio 1: Hola Mundo.
   - Ejercicio 2: Conversión de tipos de datos.
-- **Notas de la semana:** [Notas semana 1](../Notas/semana_1.md)
+- 
 
 ---
 
@@ -28,7 +28,7 @@ El curso está dividido en semanas, cada una de las cuales cubre temas específi
 - **Ejercicios:**
   - Ejercicio 1: Calculadora simple.
   - Ejercicio 2: Contador de números.
-- **Notas de la semana:** [Conceptos](../Conceptos/estructuras-de-control)
+
 
 ---
 
@@ -40,7 +40,7 @@ El curso está dividido en semanas, cada una de las cuales cubre temas específi
 - **Ejercicios:**
   - Ejercicio 1: Manipulación de listas.
   - Ejercicio 2: Diccionarios en acción.
-- **Notas de la semana:** [Notas semana 3](../Notas/semana_3.md)
+
 
 ---
 
@@ -52,7 +52,6 @@ El curso está dividido en semanas, cada una de las cuales cubre temas específi
 - **Ejercicios:**
   - Ejercicio 1: Creación de clases.
   - Ejercicio 2: Ejemplo de herencia.
-- **Notas de la semana:** [Notas semana 4](../Notas/semana_4.md)
 
 ---
 
@@ -61,7 +60,6 @@ El curso está dividido en semanas, cada una de las cuales cubre temas específi
   - "Automate the Boring Stuff with Python" - Al Sweigart
   - "Python Crash Course" - Eric Matthes
 - **Videos:**
-  - [Curso de Python en YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 ---
 
