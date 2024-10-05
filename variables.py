@@ -27,7 +27,7 @@ miVariable = 'Texto1'
 
 # --- Convenciones para Nombrar Variables ---
 # 1. CamelCase: Cada palabra empieza con mayúscula a partir de la segunda
-camelCase = 'Comienza con minúscula y cada palabra que le sigue comienza en mayúscula'
+camelCase = 'Comienza con minúscula y cada palabra que le siguecomienza en mayúscula'
 
 # 2. PascalCase: Todas las palabras empiezan con mayúscula
 PascalCase = 'Comienza con mayúscula y cada palabra que le sigue comienza en mayúscula'
@@ -53,7 +53,7 @@ txt3 = 'JavaScript'
 # Definimos algunas variables numéricas
 num1 = 1
 num2 = 2
-num3 = 6
+num3 = 6 
 
 # --- Sumar Números ---
 # Sumar los números y mostrar el resultado
