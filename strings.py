@@ -117,3 +117,8 @@ print(f'La palabra que más se repite es {contador}')
 # Nos dice la posicion de la palabra
 encontrador = texto_A_modificar.find('texto')
 print(f'La posicion de la palabra es {encontrador}') 
+
+if edad >= 12:
+    print('No puede pasar')
+    else:
+        print('Puede pasar')
